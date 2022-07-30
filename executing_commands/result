@@ -1,0 +1,13 @@
+Command Output:
+[waltdigital@fedora executing_commands]$ go run main.go
+total 4.0K
+drwxr-xr-x. 1 waltdigital waltdigital   14 Jul 30 16:47 .
+drwxr-xr-x. 1 waltdigital waltdigital   58 Jul 30 15:35 ..
+-rw-r--r--. 1 waltdigital waltdigital 1.4K Jul 30 16:47 main.go
+
+Additional Resources:
+exec: https://pkg.go.dev/os/exec
+Go exec Command: https://zetcode.com/golang/exec-command/
+Exec a shell command in Go: https://stackoverflow.com/questions/6182369/exec-a-shell-command-in-go
+Five methods of executing commands with OS / exec in go language: https://developpaper.com/five-methods-of-executing-commands-with-os-exec-in-go-language/
+How to run other system commands from your Golang program: https://youtu.be/PgTfHBORWi4
