@@ -1,7 +1,9 @@
-changing MAC:
-sudo ifconfig
-ifconfig eth0 down
-ifconfig eth0 hw ether 00:11:22:33:44:55
-ifconfig eth0 up
+Additional Resources:
+What is a MAC Address?: https://youtu.be/UrG7RTWIJak
+MAC Addresses & Privacy Spoofing Explained | Go Incognito 5.3: https://youtu.be/v6igi9VhYik
+MAC Spoofing: https://en.wikipedia.org/wiki/MAC_spoofing
+How (and Why) to Change Your MAC Address on Windows, Linux, and Mac: https://www.howtogeek.com/192173/how-and-why-to-change-your-mac-address-on-windows-linux-and-mac/
+How to change MAC address using macchanger on Kali Linux: https://linuxconfig.org/how-to-change-mac-address-using-macchanger-on-kali-linux
+Python WiFi MAC changer (Windows 10 MAC address spoofing): https://youtu.be/ZIqvGmrw7Tw
 
 

@@ -81,5 +81,6 @@ func main() {
 	}
 
 	// run command with listed args X amount of times
+	// pass in interface as well for error handling
 	sliceLoop(command, args, iface)
 }
